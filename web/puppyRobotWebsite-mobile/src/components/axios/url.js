@@ -6,7 +6,7 @@
 export default {
     orderProduct: `http://bbs.hachismart.com/api/order/`,
     getNewsInfo: `http://cms.hachismart.com/restful/api/`,
-    getInstruction: `http://cms.hachismart.com/restful/service/`,
+    getInstruction: `http://cms.puppyrobot.com/api/`,
     getStoreOfProvince: `http://cms.hachismart.com/api/dealer/`,
     video: `http://cms.hachismart.com/api/video/`,
     getManual: `http://api.puppyrobot.com/manual/api`,
